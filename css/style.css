@@ -72,3 +72,11 @@ button:hover {
     color: red;
     margin: 10px 0;
 }
+
+.excelfileInput {
+    margin: 15px;
+    padding: 5px;
+    border-radius: 6px;
+    background-color: #4f5861;
+    color: white;
+}
